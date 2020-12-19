@@ -1,4 +1,4 @@
 {
-  "PREFIX_INFO": "le prefix actuel est {PREFIX}",
-  "PREFIX_SET": "le prefix as été changer en ``{PREFIX}``"
+  "PREFIX_INFO": "Le préfixe actuel est {PREFIX}",
+  "PREFIX_SET": "Le préfixe a été changé en ``{PREFIX}``"
 }

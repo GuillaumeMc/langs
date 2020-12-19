@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "clear un nombre de message d'un salon",
-    "ERROR_NO_NUMBER": "veuillez choisisez un nombre de message a clear",
-    "ERROR_FALSE_NUMBER": "le chiffre dois se trouver entre 1 et 100",
-    "CLEARED": "vous venez de clear {COUNT} messages"
+    "DESCRIPTION": "Supprimer un nombre de messages d'un salon",
+    "ERROR_NO_NUMBER": "Veuillez choisir un nombre de messages à supprimer",
+    "ERROR_FALSE_NUMBER": "Le chiffre doit se trouver entre 1 et 100",
+    "CLEARED": "Vous venez de supprimer {COUNT} messages"
 }

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "avoir des informations sur le bot",
+    "TITLE": "informations du bot",
+    "TEAM_TITLE": "Equipe",
+    "TEAM_CONTENT": "developpeur : Arclegrandroi#0001\nTraducteurs : [github](https://github.com/Arco-bot/langs)",
+    "STATS_TITLE": "statistique",
+    "STATS_CONTENT": "- {GUILD_COUNT} serveurs\n- {USER_COUNT} utilisateurs unique\n- {CHANNEL_COUNT} salons",
+    "OTHER_TITLE": "informations supplementaires",
+    "OTHER_CONTENT": "lien d'invitation du bot [cliquer ici](https://discord.com/api/oauth2/authorize?client_id=742097999198683176&permissions=8&scope=bot)\nlien du serveur support soon..."
+}

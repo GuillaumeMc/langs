@@ -1,4 +1,20 @@
 {
-  "PREFIX_INFO": "le prefix actuel est {PREFIX}",
-  "PREFIX_SET": "le prefix as été changer en ``{PREFIX}``"
+
+  "PREFIX_INFO": "The current prefix is {PREFIX}",
+
+  "PREFIX_SET": "The server prefix has been changed to ``{PREFIX}``"
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
